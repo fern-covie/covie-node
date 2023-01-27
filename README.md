@@ -1,12 +1,12 @@
-# {Company} Node Library
+# Covie Node Library
 
-[![npm shield](https://img.shields.io/npm/v/@fern-api/{company})](https://www.npmjs.com/package/@fern-api/{company})
+[![npm shield](https://img.shields.io/npm/v/@fern-api/covie)](https://www.npmjs.com/package/@fern-api/covie)
 
-The {Company} Node.js library provides access to the {Company} API from JavaScript/TypeScript.
+The Covie Node.js library provides access to the Covie API from JavaScript/TypeScript.
 
 ## Documentation
 
-API documentation is available at <{docs_url}>.
+API documentation is available at https://developer.covie.com/docs/link-access/a5f9a3bb4a93d-access.
 
 ## Usage
 
