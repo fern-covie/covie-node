@@ -13,9 +13,14 @@ API documentation is available at [developer.covie.com/docs](https://developer.c
 [![Try it out](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](TODO)
 
 ```typescript
-import { TODO } from "TODO";
+import { CovieApi, CovieApiClient } from "@fern-api/covie";
 
-const TODO
+const client = new CovieApiClient({
+  credentials: {
+    username: process.ENV.USERNAME,
+    password: process.ENV.PASSWORD
+  } 
+});
 ```
 
 ## Beta status
