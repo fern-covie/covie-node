@@ -10,7 +10,7 @@ API documentation is available at [developer.covie.com/docs](https://developer.c
 
 ## Usage
 
-[![Try it out](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/typescript-example-using-sdk-built-with-fern-pkydap?file=package.json&view=editor)
+[![Try it out](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/typescript-example-using-sdk-built-with-fern-j4wf3t?file=app.ts)
 
 ```typescript
 import { CovieApi, CovieApiClient } from "@fern-api/covie";
