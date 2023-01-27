@@ -1,6 +1,6 @@
 {
     "name": "@fern-api/covie",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "repository": "https://github.com/fern-covie/covie-node",
     "files": [
         "dist",
