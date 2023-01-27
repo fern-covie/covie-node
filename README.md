@@ -21,6 +21,10 @@ const client = new CovieApiClient({
     password: process.ENV.PASSWORD
   } 
 });
+
+const response = client.application.getApplicationLinks('applicationId');
+
+console.log('Received response from Covie', response);
 ```
 
 ## Beta status
