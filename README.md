@@ -6,7 +6,7 @@ The Covie Node.js library provides access to the Covie API from JavaScript/TypeS
 
 ## Documentation
 
-API documentation is available at https://developer.covie.com/docs/link-access/a5f9a3bb4a93d-access.
+API documentation is available at [developer.covie.com/docs](https://developer.covie.com/docs/link-access/f7ec3538d8a6c-policy-api).
 
 ## Usage
 
